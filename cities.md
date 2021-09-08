@@ -1,4 +1,4 @@
-|code|city_name                  |time_zone                     |
+|code|name                       |time_zone                     |
 |----|---------------------------|------------------------------|
 |AR  |Ushuaia                    |America/Argentina/Ushuaia     |
 |CL  |Coihaique                  |America/Santiago              |
