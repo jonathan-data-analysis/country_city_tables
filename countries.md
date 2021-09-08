@@ -1,4 +1,4 @@
-|country_code|country                    |lat                           |long        |
+|country_code|country_name               |lat                           |long        |
 |------------|---------------------------|------------------------------|------------|
 |UA          |Ukraine                    |48.3909972                    |39.1524916  |
 |CN          |China                      |26.885704                     |120.005147  |
